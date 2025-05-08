@@ -8,5 +8,21 @@
 
     </script>
     </head>
-    </boby>
+<body>
+<ul>
+        <li><a hrel="">google</a></li>
+        <li><a  hrel="">facebook</a></li>
+        <li><a  hrel="">instagram</a></li>
+        <li><a hrel="">tik tok</a></li>
+        <li><a hrel="">kwai<a/></a></li>
+    
+</ul>
+<ol>
+    <li>google</li>
+    <li>facebook</li>
+    <li>instagram</li>
+    <li>tik tok</li>
+    <li>kwai</li>
+</ol>
+</boby>
 </html>
