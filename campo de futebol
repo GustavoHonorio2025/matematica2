@@ -1,0 +1,40 @@
+//variaveis do campo
+let xcampo = 0;
+let ycampo = 0;
+let larguracampo = 600;
+let alturacampo =400;
+//variaveis da linha de meio campo
+let xmeiocampo = 300;
+let ymeiocampo =0;
+let largurameiocampo = 1;
+let alturameiocampo = 400;
+// veriaveis do circulo cenculo central
+lat xcirculocentral = 300;
+let ycriculocentral = 200;
+let diametorcirculocentral =150;
+//variaveis da marca cantral
+let xmarcacentral = 300;
+let ymarcacentral = 200;
+let diametromarcacentral = 10;
+//variaveis da minha grande area
+let xminhagrandearea = 0;
+let yminhagrandearea = 80;
+let larguraminhagrandearea = 100;
+let alturaminhagrandearea = 240;
+//varriaveis da area adversaria
+let xgrandeareaadversaria = 500;
+let ygrandeareaadversaira = 80;
+let larguragrandeareaadversaria = 100; 
+let alturaminhagrandeareasarta = 240;
+//vairaveis da minha pequena area
+let minhapequenaarea = 0;
+let yminhapequenaarea = 120;
+let larguraminhapequenaarea = 60;
+let alturaniiminhapequenaarea = 160;
+//vairaveis da pequena area adversaria
+let xpequenaareaadversaria = 540;
+let ypequenaareaadversaria = 120;
+let largurapequenaareaadversaria = 60;
+let alturapequenaareaadversaira = 160;
+let xmeugol= 0;
+let
